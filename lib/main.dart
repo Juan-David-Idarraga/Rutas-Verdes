@@ -50,7 +50,7 @@ Widget cuerpo(BuildContext context) {
             children: <Widget>[
           Titulo(),
           SizedBox(
-            height: 60,
+            height: 100,
           ),
           campoUsuario(),
           SizedBox(
